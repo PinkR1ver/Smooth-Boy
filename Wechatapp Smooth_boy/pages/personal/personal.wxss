@@ -1,0 +1,8 @@
+/* pages/personal.wxss */
+
+.avatar{
+  width: 180rpx;
+  height: 180rpx;
+  margin: 0rpx 0rpx 0rpx 0rpx;
+  border-radius: 90rpx;
+}

@@ -1,0 +1,9 @@
+/* pages/photograph/photograph.wxss */
+
+.Camera{
+  display: flex;
+  width: 100rpx;
+  height: 100rpx;
+  margin-top: 1200rpx;
+  margin-left: 325rpx;
+}
