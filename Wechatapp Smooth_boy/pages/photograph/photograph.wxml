@@ -5,4 +5,7 @@
   <cover-image class="Camera" src="../../picture/component/camera.png" catchtap="TakePhoto"></cover-image>
 </camera> -->
 
-<image src="{{tempFilePaths}}"></image>
+<view class="container"></view>
+<view class="Position">
+  <!-- <image src="{{tempFilePaths}}"></image> -->
+</view>

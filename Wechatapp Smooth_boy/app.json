@@ -1,7 +1,7 @@
 {
-  "pages": [    "pages/photograph/photograph",
+  "pages": [  
     "pages/personal/personal",
-
+    "pages/photograph/photograph",
     "pages/assessment/assessment"
   ],
   "window": {

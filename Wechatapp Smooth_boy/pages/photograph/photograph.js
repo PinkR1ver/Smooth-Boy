@@ -32,23 +32,23 @@ Page({
 //   //   url: "../assessment/assessment"
 //   // })
 //  },
- onLoad  (){
+ onLoad(){
    var that = this
-  // wx.chooseImage({
-  //   count: 1,
-  //   sizeType: ['original', 'compressed'],
-  //   sourceType: ['album', 'camera'],
-  //   success (res) {
-  //     // tempFilePath可以作为img标签的src属性显示图片
-  //     that.setData({
-  //        tempFilePaths:res.tempFilePaths
-  //     })
-
-  //   }
-  // })
+   wx.chooseImage({
+    success (res) {
+      wx.getImageInfo({
+        src: res.tempFilePaths[0],
+        success (res) {
+          console.log(res.width)
+          console.log(res.height)
+          console.log(res.type)
+        }
+      })
+    }
+  })
 },
 data: {
-  tempFilePaths:''
+  
 },
 
 })
