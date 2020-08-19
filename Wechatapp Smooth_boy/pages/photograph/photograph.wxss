@@ -1,12 +1,12 @@
 /* pages/photograph/photograph.wxss */
 
-/* .Camera{
+.Camera{
   display: flex;
   width: 100rpx;
   height: 100rpx;
   margin-top: 1200rpx;
   margin-left: 325rpx;
-} */
+}
 
 .Position{
   width: 100%;

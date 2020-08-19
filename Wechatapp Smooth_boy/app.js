@@ -37,3 +37,5 @@ App({
     userInfo: null
   }
 })
+
+var picinf = new Array()
