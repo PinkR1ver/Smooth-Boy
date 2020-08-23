@@ -1,0 +1,248 @@
+/* pages/report/report.wxss */
+page{
+      background:#dedede;
+}
+
+.container{
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.avatar{
+      width: 600rpx;
+      height: 600rpx;
+      margin-top: -40rpx;
+      margin-left: 15rpx;
+      position: absolute;
+}
+
+.avatar1{
+      width: 70rpx;
+      height: 100rpx;
+      margin-top: -80rpx;
+      margin-left: -600rpx;
+}
+
+.point{
+      margin-top: 100px;
+      margin-left: 5px;
+      font-size: 100rpx;
+      position: absolute;
+}
+
+.avatar2{
+      width: 150rpx;
+      height: 150rpx;
+      margin-top: 650rpx;
+      margin-left: -600rpx;
+      position:relative
+}
+
+.avatar3{
+      width: 150rpx;
+      height: 150rpx;
+      margin-top: -150rpx;
+      margin-left: -200rpx;
+      position:relative
+}
+
+.avatar4{
+      width: 150rpx;
+      height: 150rpx;
+      margin-top: -150rpx;
+      margin-left: 200rpx;
+      position:relative
+}
+
+.avatar5{
+      width: 150rpx;
+      height: 150rpx;
+      margin-top: -150rpx;
+      margin-left: 580rpx;
+      position:relative
+}
+
+.motto{
+      margin-top: -70px;
+      margin-left: -7px;
+      font-size: 40rpx;
+      font-weight: bold;
+      color: #9F4311;
+      position: absolute;
+}
+
+.journey-container{
+      margin-top: -150rpx;
+      border: 1px solid #EA5A3C;
+      width: 200rpx;
+      height:80rpx;
+      border-radius: 10px;
+      text-align: center;
+      margin-right: -500rpx;
+      background-color: #ffffff;
+}
+
+.journey{
+      margin-left: -20rpx;
+      font-size: 40rpx;
+      font-weight: bold;
+      line-height: 75rpx;
+      color:rgb(210, 219, 228)
+}
+
+text{
+      font-family: Microsoft YaHei;
+}
+
+.zi0{
+      margin-top: 325px;
+      margin-left: -150px;
+      font-size: 36rpx;
+      color: #7c6363;
+      position: absolute;
+}
+
+.zi1{
+      margin-top: 325px;
+      margin-left: -50px;
+      font-size: 36rpx;
+      color: #b8a07e;
+      position: absolute;
+}
+
+.zi2{
+      margin-top: 315px;
+      margin-left: 50px;
+      font-size: 36rpx;
+      color: #547299;
+      position: absolute;
+}
+
+.zi3{
+      margin-top: 325px;
+      margin-left: 145px;
+      font-size: 36rpx;
+      color: #8c6bb1;
+      position: absolute;
+}
+
+.zi4{
+      margin-top:450px;
+      margin-left: -5rpx;
+      font-size: 28rpx;
+      color: black;
+      position: absolute;
+      width: 550rpx;
+}
+
+.section1{
+      margin-top:400px;
+      margin-left: -5rpx;
+      position: absolute;
+      height:600rpx;
+}
+
+.section2{
+      margin-top:700px;
+      margin-left: -5rpx;
+      position: absolute;
+      height:600rpx;
+}
+
+.tedian{
+      margin-top:415px;
+      margin-left: -240rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: black;
+}
+
+.pifuzhinan{
+      margin-top:670px;
+      margin-left: -200rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: black;
+}
+
+.section3{
+      width:300rpx;
+      height:130rpx;
+      margin-top:1300px;
+      margin-left: -160rpx;
+      position: absolute;
+}
+
+.chanpintuijian{
+      margin-top:1315px;
+      margin-left: -170rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: #a79e9e;  
+}
+
+.tedian{
+      margin-top:415px;
+      margin-left: -240rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: black;
+}
+
+.pifuzhinan{
+      margin-top:720px;
+      margin-left: -200rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: black;
+}
+
+.section4{
+      width:300rpx;
+      height:130rpx;
+      margin-top:1300px;
+      margin-left: 170rpx;
+      position: absolute;
+}
+
+.fanhuishouye{
+      margin-top:1315px;
+      margin-left: 170rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: #a79e9e;  
+}
+
+.section5{
+      margin-top:1000px;
+      margin-left: -5rpx;
+      position: absolute;
+      height:600rpx;
+}
+
+.shenghuoxiguan{
+      margin-top:1020px;
+      margin-left: -200rpx;
+      position: absolute;
+      font-size: 45rpx;
+      color: black;
+}
+
+.zi5{
+      margin-top:755px;
+      margin-left: -5rpx;
+      font-size: 28rpx;
+      color: black;
+      position: absolute;
+      width: 550rpx;
+}
+
+.zi6{
+      margin-top:1055px;
+      margin-left: -5rpx;
+      font-size: 28rpx;
+      color: black;
+      position: absolute;
+      width: 550rpx;
+}

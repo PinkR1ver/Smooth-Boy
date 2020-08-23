@@ -1,0 +1,20 @@
+.face{
+  width: 750rpx;
+  height: 1400rpx;
+  margin-top: 200rpx;
+  margin-left: 0rpx;
+}
+
+.camera{
+  display: flex;
+  width: 100rpx;
+  height: 100rpx;
+  margin-top: 1250rpx;
+  margin-left: 325rpx;
+  position: absolute;
+}
+
+.Position{
+  width: 100%;
+  height:1400rpx;
+}

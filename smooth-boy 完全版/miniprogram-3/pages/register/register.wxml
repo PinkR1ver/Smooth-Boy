@@ -1,0 +1,21 @@
+<!--pages/register/register.wxml-->
+<view class="item">
+  <image class="logo" src="/images/1.png"></image>  
+      <view class="login-item">
+           <view class="login-item-info">用户名</view>
+           <input value="{{username}}" bindinput="inputUsername" class="info-input"></input>
+      </view>
+      <view class="login-item">
+           <view class="login-item-info">输入密码</view>
+           <view class="login-pwd">
+           <input value="{{password}}" bindinput="inputPassword" class="info-input"></input>
+           </view>
+      </view>
+     
+      <view class="login-item bottom">
+           
+           <button class="login-btn1" bindtap="register" >注册</button>
+      </view>
+</view>
+
+

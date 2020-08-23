@@ -1,0 +1,62 @@
+/* pages/research/research.wxss */
+page{
+  background:#dedede;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.questionPic{
+  width:300rpx;
+  height:300rpx;
+  margin-top: 0rpx;
+}
+
+.questionTex{
+  width: 600rpx;
+  margin-top: 50rpx;
+  margin-bottom: 150rpx;
+  font-size: 36rpx;
+}
+
+.section{
+  height: 140rpx;
+  margin-bottom: 40rpx;
+  position: relative;
+}
+
+.sectionTexta{
+  color:#7f7676;
+  text-align: center;
+  font-size:32rpx;
+  position:absolute;
+  margin-top: 640rpx;
+}
+
+.sectionTextb{
+  color:#7f7676;
+  text-align: center;
+  font-size:32rpx;
+  position:absolute;
+  margin-top: 820rpx;
+}
+
+.sectionTextc{
+  color:#7f7676;
+  text-align: center;
+  font-size:32rpx;
+  position:absolute;
+  margin-top: 1000rpx;
+}
+
+.sectionTextd{
+  color:#7f7676;
+  text-align: center;
+  font-size:32rpx;
+  position:absolute;
+  margin-top: 1180rpx;
+}
+

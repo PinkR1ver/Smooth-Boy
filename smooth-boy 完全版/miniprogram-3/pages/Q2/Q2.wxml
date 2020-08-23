@@ -1,0 +1,14 @@
+<!--pages/research/research.wxml-->
+<view class="container">
+  <image class="questionPic" src="/images/Q/Q2.png"
+  mode="aspectFit"/>
+  <text class="questionTex" space="emsp">  身处干燥的环境中，如果不用保湿产品或防晒产品，你的面部皮肤</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTexta" bindtap="jumpA">感觉很干或锐痛</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextb" bindtap="jumpB">感觉紧绷</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextc" bindtap="jumpC">感觉正常</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextd" bindtap="jumpD">看起来有光亮，或从不觉得缺少水分</text>
+</view>

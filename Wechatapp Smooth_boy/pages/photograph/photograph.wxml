@@ -1,4 +1,0 @@
-<!--pages/photograph/photograph.wxml-->
-<camera mode="normal" device-position="front" flash="auto" binderror="error" style="width: 100%; height:1400rpx">
-  <cover-image class="Camera" src="../../picture/component/camera.png" catchtap="TakePhoto"></cover-image>
-</camera>

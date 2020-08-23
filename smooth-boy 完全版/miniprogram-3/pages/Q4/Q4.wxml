@@ -1,0 +1,14 @@
+<!--pages/research/research.wxml-->
+<view class="container">
+  <image class="questionPic" src="/images/Q/Q4.png"
+  mode="aspectFit"/>
+  <text class="questionTex" space="emsp">  脸上会出现红色的粉刺、痘痘、痤疮</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTexta" bindtap="jumpA">从不</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextb" bindtap="jumpB">很少</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextc" bindtap="jumpC">至少一个月出现一次</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextd" bindtap="jumpD">至少每周出现一次</text>
+</view>

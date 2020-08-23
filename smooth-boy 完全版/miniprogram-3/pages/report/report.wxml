@@ -1,0 +1,40 @@
+<!--pages/report/report.wxml-->
+
+<view class="container">
+  
+  <view class="journey-container" >
+      <text class="journey" bindtap="retest">测肤质</text>
+  </view>
+    <text class="motto">肤质报告</text>
+
+  <image class="avatar" src="/images/report/分数框.png"></image>
+  <image class="avatar1" src="/images/report/-e-返回.png"></image>
+  <text class ="point">{{sccore|Int}}</text>
+  <image class="avatar2" src="/images/report/1.png"></image>
+  <image class="avatar3" src="/images/report/2.png"></image>
+  <image class="avatar4" src="/images/report/3.png"></image>
+  <image class="avatar5" src="/images/report/4.png"></image>
+  <text class="zi0">{{DryorOily}}</text>
+  <text class="zi1">{{RisistantorSensitive}}</text>
+  <text class="zi2">{{NonpigmentedorPigmented}}</text>
+  <text class="zi3">{{TightorWrinkled}}</text>
+
+  <image class="section1" src="/images/section/选项卡.png"/>
+  <text class="tedian">特点</text>
+  <text class="zi4">{{conclusion}}</text>
+
+  <image class="section2" src="/images/section/选项卡.png"/>
+  <text class="pifuzhinan">皮肤指南</text>
+  <text class="zi5">{{guidance}}</text>
+
+  <image class="section5" src="/images/section/选项卡.png"/>
+  <text class="shenghuoxiguan">生活习惯</text>
+  <text class="zi6">{{habit}}</text>
+
+  <image class="section3" src="/images/section/选项卡.png"/>
+  <text class="chanpintuijian" bindtap="recommand">产品推荐</text>
+  <image class="section4" src="/images/section/选项卡.png"/>
+  <text class="fanhuishouye" >返回首页</text>
+
+</view>
+

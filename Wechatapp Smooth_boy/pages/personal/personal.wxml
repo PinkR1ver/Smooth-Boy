@@ -1,7 +1,0 @@
-<!--pages/personal.wxml-->
-<view class="container">
-  <view catchtap="onTapToPicture">
-    <image class="avatar" src="../../picture/avatar/u=1027245443,3552957153&fm=26&gp=0.jpg"></image>
-  </view>
-</view>
-

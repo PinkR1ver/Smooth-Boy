@@ -1,0 +1,14 @@
+<!--pages/research/research.wxml-->
+<view class="container">
+  <image class="questionPic" src="/images/Q/Q1.png"
+  mode="aspectFit"/>
+  <text class="questionTex" space="emsp">  在一天结束时，你的皮肤状况符合以下哪一项？</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTexta" bindtap="jumpA">脸部紧绷，且易产生皮屑</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextb" bindtap="jumpB">脸部少油，有皮屑，会发红</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextc" bindtap="jumpC">T区发光，而脸上的其他部位不会</text>
+  <image class="section" src="/images/section/选项卡.png"/>
+    <text class="sectionTextd" bindtap="jumpD">脸部有油腻的感觉，看起来闪光</text>
+</view>
