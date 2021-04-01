@@ -10,15 +10,4 @@
 # Boys also need smooth skin (@<sup>。</sup>3<sup>。</sup>@)
 
 ## Some UI protype:
-* **Initial Interface**
-![Initial Interface](/figs/InitialInterface.png)
-* **Community**
-![Community](/figs/Community.png)
-* **Article Poster**
-![Article Poster](/figs/ArticlePoster.png)
-* **Personal Interface**
-![Personal Interface](/figs/PersonalInterface.png)
-<br></br>
-![Personal Interface](/figs/PersonalInterface(others).png)
-* **Favorite Article**
-![Favorite Article](/figs/FavoriteArticle.png)
+![Interface](/figs/Togther.png)
